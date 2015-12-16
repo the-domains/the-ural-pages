@@ -1,0 +1,29 @@
+name: The Ural Pages
+favicon: null
+layout_spectrum: 0.10795143363066018
+typography_spectrum: 0.43284840672276914
+title: This site is dedicated to the URAL 750 Ranger sidecar and URAL 4320 Truck
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.42632170859724283
+  lightness: 0.18030370096676052
+  saturation: 0.701510246610269
+  rhythmicContrast: 0.698060356779024
+purpose: []
